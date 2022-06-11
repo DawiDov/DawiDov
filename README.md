@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Artur Davidov</h1>
-<h3 align="center">A fullstack developer from Russia</h3>
+<h3 align="center">A frontend developer from Russia</h3>
 
 - 🔭 I’m currently working on [resume generator](https://github.com/DawiDov/portfolio_project.git)
 
