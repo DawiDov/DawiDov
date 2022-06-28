@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Artur Davidov</h1>
 <h3 align="center">A frontend developer from Russia</h3>
 
-- 🔭 I’m currently working on [resume generator](https://github.com/DawiDov/portfolio_project.git)
+- 🔭 I’m currently working on [portfolio_project](https://github.com/DawiDov/portfolio_project.git)
 
 - 👨‍💻 Telegram [@hypnocoder](@hypnocoder)
 
-- 📝 I regularly write articles on [https://habr.com/ru/users/Braz_zers/](https://habr.com/ru/users/Braz_zers/)
+- 📝 I plan to start writing reguralry on [https://habr.com/ru/users/Braz_zers/](https://habr.com/ru/users/Braz_zers/)
 
 - 📫 How to reach me **davidov-artur@hypnocoder.ru**
 
